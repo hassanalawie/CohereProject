@@ -1,4 +1,5 @@
 Hey! I recently made this project to experiment with Sentiment analysis, so I decided, why not use cohere? The process was really smooth and to see this in action, just input your own cohere API key!!
+<img width="1710" alt="Screenshot 2024-02-11 at 3 30 25 PM" src="https://github.com/hassanalawie/CohereProject/assets/52801030/3204de3c-ad8f-47c5-85ca-d0c4afa54cb0">
 
 # Customer Success Dashboard
 
